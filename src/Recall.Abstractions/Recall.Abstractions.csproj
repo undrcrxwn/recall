@@ -6,6 +6,9 @@
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <LangVersion>11</LangVersion>
+        <PackageVersion>1.0.1</PackageVersion>
+        <Authors>undrcrxwn</Authors>
+        <PackageProjectUrl>https://github.com/undrcrxwn/recall</PackageProjectUrl>
     </PropertyGroup>
 
 </Project>
